@@ -1,0 +1,11 @@
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\bin\Debug\Quadratic_equation.exe.config
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\bin\Debug\Quadratic_equation.exe
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\bin\Debug\Quadratic_equation.pdb
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\bin\Debug\Quadratic_equation.xml
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\obj\Debug\Quadratic_equation.Form1.resources
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\obj\Debug\Quadratic_equation.Resources.resources
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\obj\Debug\Quadratic_equation.vbproj.GenerateResource.cache
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\obj\Debug\Quadratic_equation.vbproj.CoreCompileInputs.cache
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\obj\Debug\Quadratic_equation.exe
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\obj\Debug\Quadratic_equation.xml
+G:\CompactFlash\Курсови работи\Иван Георгиев\VB\Quadratic_equation\Quadratic_equation\obj\Debug\Quadratic_equation.pdb
