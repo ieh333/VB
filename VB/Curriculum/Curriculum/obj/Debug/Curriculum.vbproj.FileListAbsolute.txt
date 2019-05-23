@@ -1,0 +1,10 @@
+J:\Curriculum\Curriculum\bin\Debug\Curriculum.exe.config
+J:\Curriculum\Curriculum\bin\Debug\Curriculum.exe
+J:\Curriculum\Curriculum\bin\Debug\Curriculum.pdb
+J:\Curriculum\Curriculum\bin\Debug\Curriculum.xml
+J:\Curriculum\Curriculum\obj\Debug\Curriculum.Form1.resources
+J:\Curriculum\Curriculum\obj\Debug\Curriculum.Resources.resources
+J:\Curriculum\Curriculum\obj\Debug\Curriculum.vbproj.GenerateResource.Cache
+J:\Curriculum\Curriculum\obj\Debug\Curriculum.exe
+J:\Curriculum\Curriculum\obj\Debug\Curriculum.xml
+J:\Curriculum\Curriculum\obj\Debug\Curriculum.pdb
